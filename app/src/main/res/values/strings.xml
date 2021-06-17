@@ -16,4 +16,7 @@
     <string name="_division">/</string>
     <string name="_addition">+</string>
     <string name="_substraction">-</string>
+    <string name="non">" "</string>
+    <string name="non2">" "</string>
+    <string name="_clear">C</string>
 </resources>
